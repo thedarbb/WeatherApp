@@ -1,0 +1,60 @@
+angular.callbacks._0({
+    "city": {
+        "id": 6089694,
+        "name": "North Devon",
+        "coord": {
+            "lon": -66.632179,
+            "lat": 45.966808
+        },
+        "country": "CA",
+        "population": 0
+    },
+    "cod": "200",
+    "message": 0.009,
+    "cnt": 2,
+    "list": [{
+        "dt": 1448553600,
+        "temp": {
+            "day": 279.21,
+            "min": 279.21,
+            "max": 280.36,
+            "night": 280.36,
+            "eve": 279.74,
+            "morn": 279.21
+        },
+        "pressure": 1034.16,
+        "humidity": 76,
+        "weather": [{
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }],
+        "speed": 5.19,
+        "deg": 215,
+        "clouds": 92,
+        "rain": 0.22
+    }, {
+        "dt": 1448640000,
+        "temp": {
+            "day": 282.72,
+            "min": 281.4,
+            "max": 284.22,
+            "night": 281.71,
+            "eve": 283.26,
+            "morn": 281.4
+        },
+        "pressure": 1020.49,
+        "humidity": 75,
+        "weather": [{
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }],
+        "speed": 5.17,
+        "deg": 227,
+        "clouds": 56,
+        "rain": 0.41
+    }]
+});
